@@ -294,12 +294,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **Dataset**: Roboflow Universe - Dental Caries X-ray Dataset
@@ -344,5 +338,6 @@ For questions, suggestions, or issues, please open an issue on GitHub.
 [Live Demo](https://dentalcarriesdetector.streamlit.app) • [Report Bug](https://github.com/your-username/dental-caries-detector/issues) • [Request Feature](https://github.com/your-username/dental-caries-detector/issues)
 
 </div>
+
 
 
