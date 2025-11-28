@@ -10,7 +10,6 @@ An advanced AI-powered web application for detecting dental caries (cavities) in
 
 ### 🎯 Core Functionality
 - **AI-Powered Detection**: YOLOv8s model trained specifically for dental caries detection
-- **Batch Processing**: Analyze multiple X-ray images simultaneously
 - **Confidence-Based Color Coding**: Visual indicators for detection reliability
 - **Real-time Analysis**: Fast processing with progress tracking
 
@@ -22,7 +21,6 @@ An advanced AI-powered web application for detecting dental caries (cavities) in
 ### 💾 Export Options
 - **Annotated Images**: Download X-rays with highlighted caries areas
 - **JSON Reports**: Structured data for integration with other systems
-- **Batch Downloads**: Process and save multiple results
 
 ### 🎨 User Experience
 - **Professional UI**: Clean, modern interface with custom styling
@@ -265,14 +263,6 @@ For detailed deployment instructions, see [DEPLOYMENT.md](DEPLOYMENT.md)
 # Download annotated image
 ```
 
-### Batch Processing
-```python
-# Upload multiple X-ray images
-# Set threshold to 40% for conservative detection
-# Review each image in separate expandable sections
-# Download all results
-```
-
 ### Integration with Other Systems
 ```python
 # Export JSON reports
@@ -336,6 +326,7 @@ For questions, suggestions, or issues, please open an issue on GitHub.
 **Current Model: YOLOv8s | mAP50: 88.3% | Precision: 97.0%**
 
 </div>
+
 
 
 
