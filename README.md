@@ -33,7 +33,7 @@ An advanced AI-powered web application for detecting dental caries (cavities) in
 ## 🚀 Quick Start
 
 ### Online Demo
-Visit our live demo: [Dental Caries Detector](https://dentalcarriesdetector.streamlit.app)
+Visit our live demo: [Dental Caries Detector](https://dental-carries-detector.streamlit.app)
 
 ### Local Installation
 
@@ -323,6 +323,7 @@ For questions, suggestions, or issues, please open an issue on GitHub.
 **Current Model: YOLOv8s | mAP50: 88.3% | Precision: 97.0%**
 
 </div>
+
 
 
 
