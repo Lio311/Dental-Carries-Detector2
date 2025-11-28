@@ -216,8 +216,7 @@ mixup=0.05          # Mixup augmentation
 - ✅ Memory-optimized for T4 GPU constraints
 
 For detailed training information, see:
-- `train_caries_optimized.ipynb` - Latest optimized training
-- `MEMORY_FIX.md` - GPU memory optimization guide
+- `train_caries.ipynb` - Latest optimized training
 
 ---
 
@@ -243,8 +242,6 @@ For detailed training information, see:
    - `best.pt` - Trained model (must be in repo)
    - `requirements.txt` - Python dependencies
    - `packages.txt` - System dependencies
-
-For detailed deployment instructions, see [DEPLOYMENT.md](DEPLOYMENT.md)
 
 ### Environment Requirements
 - Python 3.10+
@@ -326,6 +323,7 @@ For questions, suggestions, or issues, please open an issue on GitHub.
 **Current Model: YOLOv8s | mAP50: 88.3% | Precision: 97.0%**
 
 </div>
+
 
 
 
