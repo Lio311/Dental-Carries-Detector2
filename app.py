@@ -403,7 +403,7 @@ if uploaded_files:
                         (w, h), _ = cv2.getTextSize(label_text, cv2.FONT_HERSHEY_SIMPLEX, 0.5, 1)
                         cv2.rectangle(annotated_img, (x1, y1 - 20), (x1 + w, y1), color, -1)
                         cv2.putText(annotated_img, label_text, (x1, y1 - 5),
-                                  cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 255, 255), 1)
+                                  cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 0), 1)
                 
                 progress_bar.progress(100, text="Complete!")
                 progress_bar.empty()
