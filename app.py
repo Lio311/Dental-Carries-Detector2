@@ -327,9 +327,9 @@ with st.sidebar:
     # Model info
     with st.expander("📊 Model Information"):
         st.write("**Model:** YOLOv8n")
-        st.write("**mAP50:** 82.6%")
-        st.write("**Precision:** 86.2%")
-        st.write("**Recall:** 75.7%")
+        st.write("**mAP50:** 88.3%")
+        st.write("**Precision:** 97%")
+        st.write("**Recall:** 74.6%")
 
 # File uploader
 uploaded_file = st.file_uploader(
