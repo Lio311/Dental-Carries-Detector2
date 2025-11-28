@@ -335,9 +335,8 @@ For questions, suggestions, or issues, please open an issue on GitHub.
 
 **Current Model: YOLOv8s | mAP50: 88.3% | Precision: 97.0%**
 
-[Live Demo](https://dentalcarriesdetector.streamlit.app) • [Report Bug](https://github.com/your-username/dental-caries-detector/issues) • [Request Feature](https://github.com/your-username/dental-caries-detector/issues)
-
 </div>
+
 
 
 
