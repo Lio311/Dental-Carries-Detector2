@@ -4,7 +4,7 @@ Dental Caries Detection Application
 An advanced Streamlit application for detecting dental caries in X-ray images
 using YOLOv8 deep learning model.
 
-Author: Lior
+Authors: Lior & Shaked
 Version: 2.0
 """
 
