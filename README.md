@@ -69,11 +69,7 @@ dental-caries-detector/
 ├── requirements.txt                # Python dependencies
 ├── packages.txt                    # System dependencies (for Streamlit Cloud)
 ├── README.md                       # This file
-├── DEPLOYMENT.md                   # Deployment guide
-├── CHANGELOG.md                    # Version history
-├── train_caries.ipynb             # Original training notebook
-├── train_caries_optimized.ipynb   # Optimized training notebook
-└── MEMORY_FIX.md                  # GPU memory optimization guide
+└── train_caries.ipynb              # training notebook
 ```
 
 ---
@@ -348,4 +344,5 @@ For questions, suggestions, or issues, please open an issue on GitHub.
 [Live Demo](https://dentalcarriesdetector.streamlit.app) • [Report Bug](https://github.com/your-username/dental-caries-detector/issues) • [Request Feature](https://github.com/your-username/dental-caries-detector/issues)
 
 </div>
+
 
