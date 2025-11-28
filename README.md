@@ -1,6 +1,6 @@
 # 🦷 Dental Caries Detection System
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dentalcarriesdetector.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dental-carries-detector.streamlit.app)
 
 An advanced AI-powered web application for detecting dental caries (cavities) in X-ray images using YOLOv8 deep learning model.
 
@@ -348,3 +348,4 @@ For questions, suggestions, or issues, please open an issue on GitHub.
 [Live Demo](https://dentalcarriesdetector.streamlit.app) • [Report Bug](https://github.com/your-username/dental-caries-detector/issues) • [Request Feature](https://github.com/your-username/dental-caries-detector/issues)
 
 </div>
+
