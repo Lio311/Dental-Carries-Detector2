@@ -286,6 +286,18 @@ For questions, suggestions, or issues, please open an issue on GitHub.
 
 ## 🔄 Version History
 
+### v2.2 (Strategy C) - November 2025
+- 🚀 **Strategic Upgrade to YOLOv8m**
+- 🧠 Capacity-optimized training (640px images + 25M parameters)
+- 🎯 Target: >90% mAP50 with high clinical precision
+- 🔄 Current active strategy
+
+### v2.1 (Balanced Optimization) - November 2025
+- ⚖️ **Balanced Config**: YOLOv8s with 800px images
+- 🏥 **Clinical Improvements**: 93.5% Precision, 77.5% Recall
+- 📉 Slight mAP decrease (87.4%) due to localization challenges
+- 💾 Memory optimized (Batch 10) to fit 15GB
+- 
 ### v2.0 (Current) - November 2025
 - 🎯 **Upgraded to YOLOv8s model** (+13.6% mAP50-95, +10.8% Precision)
 - ✨ Complete UI redesign with professional styling
@@ -311,6 +323,7 @@ For questions, suggestions, or issues, please open an issue on GitHub.
 **Current Model: YOLOv8s | mAP50: 88.3% | Precision: 97.0%**
 
 </div>
+
 
 
 
