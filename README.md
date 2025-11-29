@@ -3,18 +3,6 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dental-carries-detector.streamlit.app)
 
 An advanced AI-powered web application for detecting dental caries (cavities) in X-ray images using YOLOv8 deep learning model.
-
----
-
-## ✨ Features
-
-### 🎯 Core Functionality
-- **AI-Powered Detection**: YOLOv8s model trained specifically for dental caries detection
-- **Confidence-Based Color Coding**: Visual indicators for detection reliability
-- **Real-time Analysis**: Fast processing with progress tracking
-
-### 📊 Advanced Analytics
-- **Detection Statistics**: Comprehensive metrics including average, max, and min confidence
 - **Confidence Distribution Charts**: Visual representation of detection quality
 - **Detailed Reports**: Exportable JSON reports with complete detection data
 
