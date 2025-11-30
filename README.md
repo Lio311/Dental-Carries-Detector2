@@ -71,8 +71,8 @@ We have iteratively optimized the training process to maximize performance withi
 | Strategy | Model | Image Size | Batch | Memory | mAP50 | Recall | Precision | Notes |
 |----------|-------|------------|-------|--------|-------|--------|-----------|-------|
 | **Initial** | YOLOv8n | 640px | 64 | ~4GB | 82.6% | 75.7% | 86.2% | First attempt (v1.0) |
-| **Baseline** | YOLOv8s | 640px | 16 | ~7GB | **88.3%** | 74.6% | 88.3% | Strong baseline (v2.0) |
-| **Balanced** | YOLOv8s | 800px | 10 | ~14.5GB | 87.4% | **77.5%** | **93.5%** | Better clinical metrics |
+| **Baseline** | YOLOv8s | 640px | 16 | ~7GB | 88.3% | 74.6% | 97% | Strong baseline (v2.0) |
+| **Balanced** | YOLOv8s | 800px | 10 | ~14.5GB | **87.4%** | **77.5%** | **93.5%** | Better clinical metrics |
 | **Strategy C** | **YOLOv8m** | 640px | 16 | ~14GB | **Target: >90%** | High | High | **Current Best Strategy** |
 
 ### Why Strategy C?
@@ -323,6 +323,7 @@ For questions, suggestions, or issues, please open an issue on GitHub.
 **Current Model: YOLOv8s | mAP50: 88.3% | Precision: 97.0%**
 
 </div>
+
 
 
 
